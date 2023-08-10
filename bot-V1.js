@@ -10,11 +10,11 @@ const client = new Client({
   ]
 });
 
-const token = 'MTEzODc2MDMwNzc3NTM3NzQ1OQ.GZhY8S.-t8Rns6EwZYXxnVAim-07aWLlkH2kOuhBZZqO4';
-const server1Id = '1126776340528517120'; //sales teams 
-const server2Id = '1123181731906850866'; //models
-const channel1Id = '1126780648565256242'; // sales teams  (becky)
-const channel2Id = '1123229303677669456'; // models  (becky)
+const token = 'Bot Token';
+const server1Id = 'Server 1 ID'; 
+const server2Id = 'Server 2 ID'; 
+const channel1Id = 'Channel 1 ID'; 
+const channel2Id = 'Channel 2 ID'; 
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
