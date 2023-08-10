@@ -1,8 +1,7 @@
 # msg-jumper-bot
- a bot to forward discord channels message to other server channels
+ ##a bot to forward discord channels message to other server channels
 
 
- Sure! Here's a README template you can use for your two bot versions:
 
 ---
 
