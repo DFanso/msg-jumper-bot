@@ -62,4 +62,3 @@ This is an enhanced version of the Discord bot implemented in Node.js using the 
 
 ---
 
-Feel free to enhance the README with more details, such as deployment options, troubleshooting tips, and any other relevant information.
